@@ -54,8 +54,7 @@ Simply open `index.html` in your browser to preview the site.
 ## 🌐 Live Demo
 
 ## Live Demo
-[![Live Demo](https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge)]([https://git-onga.github.io/timeline-builder/)
-
+[![Live Demo](https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge)](https://git-onga.github.io/timeline-builder/)
 
 ---
 
