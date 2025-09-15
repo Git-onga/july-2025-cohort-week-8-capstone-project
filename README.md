@@ -53,7 +53,9 @@ Simply open `index.html` in your browser to preview the site.
 
 ## 🌐 Live Demo
 
-(You can add a GitHub Pages link here once deployed.)
+## Live Demo
+[![Live Demo](https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge)]([https://git-onga.github.io/timeline-builder/)]
+
 
 ---
 
